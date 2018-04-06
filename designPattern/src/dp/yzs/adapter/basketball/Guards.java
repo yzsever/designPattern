@@ -1,4 +1,4 @@
-package dp.yzs.adapter.base.basketball;
+package dp.yzs.adapter.basketball;
 
 /**
  * 后卫类
